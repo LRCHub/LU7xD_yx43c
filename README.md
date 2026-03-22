@@ -1,4 +1,4 @@
-# OFFICIAL HIGE DANDISM – Make Me Wonder
+# Official髭男dism – Make Me Wonder
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
