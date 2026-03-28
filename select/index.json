@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Make Me Wonder",
   "base_artist": "Official髭男dism",
-  "createdAt": "2026-03-22T04:49:23.488119Z",
+  "createdAt": "2026-03-28T16:43:53.612862Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,14 @@
       "artist": "Suzanne Vega",
       "has_synced": true,
       "path": "select/07_Make_me_wonder_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make Me Wonder  (Trancephonic Radio Edit)",
+      "artist": "DJ Rosso",
+      "has_synced": false,
+      "path": "select/08_Make_Me_Wonder_(Trancephonic_Radio_Edit)_DJ_Rosso.txt"
     },
     {
       "id": "petitlyrics_1",
